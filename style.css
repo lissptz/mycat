@@ -1,0 +1,91 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@700&display=swap');
+body{
+    font-family: 'Raleway', sans-serif;
+    background: url(https://img5.goodfon.ru/wallpaper/nbig/c/fb/cat-yellow-eyes-paw-funny-cute-simple-background-digital-art.jpg)
+padding-box 100px 0
+}
+h3{
+    font-size: 20px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+h2{
+    font-size:  20px;
+font-weight: bold;
+margin-bottom: 10px;
+}
+h1{
+    font-size:  20px;
+font-weight: bold;
+margin-bottom: 10px;
+}
+.container{
+    width: 800px;
+    min-height: 700px;
+    border: 3px solid rgb(255, 255, 255);
+    margin: auto;
+    background: white
+}
+.header{
+    display: flex;
+    height:  150px;
+  
+}
+.title-block{
+    display:flex;
+   justify-content: center;
+   align-items: center;
+   font-size:  30px;
+    height: 100%;
+    width: 80%;
+    margin-right: 3px;
+    color: rgb(231, 220, 220);
+    background:url(https://images.wallpaperscraft.ru/image/fon_nebo_tochki_svet_83482_300x168.jpg) no-repeat center center /cover
+  
+}
+.userpic{
+    display:flex;
+    height:  100%;
+    width: 20%;
+    border: 0px solid black;
+    background: url(https://sun9-25.userapi.com/impg/c857228/v857228443/d0873/kz2diODXoAM.jpg?size=780x1040&quality=96&sign=256d84a3a285cf3e3a9cff25151c2979&type=album)no-repeat center center /cover
+}
+.nav ul{
+  
+  background: rgb(150, 177, 219);
+margin: 3px
+  }
+
+.nav li a {
+ padding: 5x;
+display: flex;
+  color: brown;
+ font-weight: bold;
+border-right: 1px solid;
+font-weight: bold;}
+.content-wrapper {
+    display: flex;
+}
+.content{
+    width: 70%;
+    padding: 20px;
+}
+.sidebar{
+  
+    width: 30%;
+    padding: 20px;}
+    .footer{
+  
+            background: rgb(235, 235, 235);
+            color: rgb(189, 129, 129);
+            font-size: 100%;
+            padding: 5px; clear : both;
+            position:fixed;
+            left:0px;
+            bottom:0px;
+            height:5vh;
+            width:20%;
+        }
+           
+
+
